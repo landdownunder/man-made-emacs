@@ -1,0 +1,15 @@
+#+title: Man Made Emacs
+
+An Emacs =framework= for the new user, or those who are searching for a starting point for their own configuration.
+
+* Goals
+
+Welcome reader.
+
+- Use Emacs build-in packages wherever possible and practicable.
+- Use standard package manager =package.el=
+- Don't use =use-packe= but the simple and light =setup.el=
+- Functionality and features provided by modules
+- Modules functional outside of this =framework=
+- Decent starting point with useable defaults, good editing and projects
+- Fast
